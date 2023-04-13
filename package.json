@@ -1,0 +1,12 @@
+{
+  "name": "0000-template-pagina-web",
+  "version": "1.0.0",
+  "description": "Comentario sobre la pagina",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
